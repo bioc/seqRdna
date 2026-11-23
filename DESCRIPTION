@@ -1,6 +1,6 @@
 Package: seqRdna
 Title: Tools for Calculating for rDNA in Sequencing Data
-Version: 0.99.5
+Version: 1.0.0
 Authors@R: c(
     person(
       given = "Daniel", 
